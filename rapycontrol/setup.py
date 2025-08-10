@@ -11,5 +11,5 @@ setuptools.setup(
     description="A Python library for controlling stepper motors and other devices.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/lmwmason/rapycontrol",
+    url="https://github.com/lmwmason/rapycontrol/tree/main/lib",
     
